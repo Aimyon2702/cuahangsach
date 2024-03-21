@@ -2,12 +2,12 @@
 
 /*
 |--------------------------------------------------------------------------
-| Create The Application
+| Broadcast Channels
 |--------------------------------------------------------------------------
 |
-| The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all the components of Laravel, and is
-| the IoC container for the system binding all of the various parts.
+| Here you may register all of the event broadcasting channels that your
+| application supports. The given channel authorization callbacks are
+| used to check if an authenticated user can listen to the channel.
 |
 */
 
