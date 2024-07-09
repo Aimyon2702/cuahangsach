@@ -1,3 +1,13 @@
+# BOOK-SELLING WEBSITE
+
+Cửa hàng sách được phát triển bằng ngôn ngữ PHP và sử dụng framework Laravel. Dự án này được viết dưới dạng bài tập cuối kỳ của môn Lập Trình Web 
+
+Screenshot:
+===========
+![cuahangsach](public\screenshot\1.PNG)
+
+
+
 ## Bắt đầu
 
 Đầu tiên, tạo csdl từ file demo.sql trong thư mục database
