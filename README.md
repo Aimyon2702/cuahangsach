@@ -1,14 +1,31 @@
-# BOOK-SELLING WEBSITE
+# Book-selling Website
 
 Cửa hàng sách được phát triển bằng ngôn ngữ PHP và sử dụng framework Laravel. Dự án này được viết dưới dạng bài tập cuối kỳ của môn Lập Trình Web 
 
 Screenshot:
 ===========
-![cuahangsach](public\screenshot\1.PNG)
+## Trang chủ
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/1.PNG)
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/2.PNG)
+
+## Đăng nhập
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/3.PNG)
+
+## Đăng ký
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/4.PNG)
+
+## Chi tiết sản phẩm
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/5.PNG)
+
+## Giỏ hàng
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/6.PNG)
+
+## Đặt hàng
+![Trang Chủ](https://github.com/Aimyon2702/cuahangsach/blob/e4bd0abc7955ae9df39900afa9940ed67b330443/public/screenshot/7.PNG)
 
 
 
-## Bắt đầu
+# Bắt đầu
 
 Đầu tiên, tạo csdl từ file demo.sql trong thư mục database
 
@@ -19,7 +36,7 @@ Mở http://localhost:8080/cuahangsach để xem kết quả
 Bạn có thể truy cập vào trang quản trị viên bằng cách thêm `/admin`
 
 
- ## About Laravel
+# About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
